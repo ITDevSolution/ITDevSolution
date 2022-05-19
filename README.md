@@ -20,7 +20,7 @@ Here are some ideas to get you started:
          <p> Hi there!👋 My name is Joel  </p>
          <p> I am a FullStack Developer  </p>
 <div>
-   <p>I am an environmentalist and creative turned engineer. I have an extensive knowledge in HTML, CSS, JavaScript, Node.js, Express, GraphSQL,FireBase, MongoDB, and React. My skills highly reflect across screens and teams I've worked with and am looking for my next endeavor in programming. Check out some projects I've worked on so far!</p>
+   <p>I am an Selft-Taught and Enthusiastic turned developer. I have an extensive knowledge in HTML, CSS, JavaScript, Node.js, Express, GraphSQL,FireBase, MongoDB, and React. My skills highly reflect across screens and teams I've worked with and am looking for my next endeavor in programming. Check out some projects I've worked on so far!</p>
     </p>
           <li> ✉️ CONTACT ME AT: </li>
     </div>
